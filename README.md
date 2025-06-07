@@ -1,4 +1,4 @@
-#Weather_Application
+# Weather_Application
 This is a responsive weather application built using React JS that fetches real-time weather data from the OpenWeatherMap API. The app offers a clean, user-friendly interface designed to provide accurate and timely weather updates based on user input.
 
 Key Features:
